@@ -26,7 +26,7 @@ var (
 )
 
 const (
-	MeltDefault    = "http://melt.grindvoll.org"
+	MeltDefault    = "https://melt.grindvoll.org"
 	HipChatDefault = "https://api.hipchat.com/v2"
 )
 
